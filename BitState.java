@@ -10,10 +10,6 @@ import java.util.List;
 
 import static edu.brown.cs.burlap.tutorials.domain.simple.DrillModel.*;
 
-
-/**
- * @author James MacGlashan.
- */
 @DeepCopyState
 public class BitState implements MutableState{
 
