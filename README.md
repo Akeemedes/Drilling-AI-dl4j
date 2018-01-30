@@ -1,1 +1,2 @@
 # Drilling AI dl4j
+This project was done to improvise drilling cost with Artificial intelligence. It makes use of both supervised learning(regression) and reinforcement learning(Q learning). A feed forward neural network of two layers was developed to predict drilling time as a function of drilling paramters. This model was then deployed as a state variable as well as a variable for the reard function in the reinforcement learning algorithm.
