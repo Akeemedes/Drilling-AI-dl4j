@@ -33,10 +33,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-
-/**
- * @author James MacGlashan.
- */
 public class DrillModel implements DomainGenerator {
 
     public static final String DEPTH_IN = "y1";
