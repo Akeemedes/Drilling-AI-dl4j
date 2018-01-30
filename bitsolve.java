@@ -31,10 +31,6 @@ import burlap.statehashing.simple.SimpleHashableStateFactory;
 import java.io.PrintWriter;
 //import java.util.List;
 
-
-/**
- * @author James MacGlashan.
- */
 public class bitsolve {
 
     public static void main(String [] args) throws Exception {
