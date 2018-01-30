@@ -30,10 +30,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-/**
- * Created by Anwar on 3/15/2016.
- * An example of regression neural network for performing addition
- */
 public class Regression {
     //Random number generator seed, for reproducability
     public static final int seed = 12345;
